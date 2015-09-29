@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>test2/授業用</title>
+
+<div class="blocka">
+   ロゴ
+</div>
+<div class="blockb">
+   案内・検索窓
+</div>
+<div class="blockc">
+   ナビゲーション
+</div>
+<div class="blockd">
+   メニュー
+</div>
+<div class="blocke">
+   本文
+</div>
+<div class="blockf">
+   著作権表示
+</div>
